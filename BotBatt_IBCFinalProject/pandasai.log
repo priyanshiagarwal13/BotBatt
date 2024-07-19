@@ -1,0 +1,2155 @@
+2024-06-24 11:13:42 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:13:45 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:20:47 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:23:09 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:23:09 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:23:10 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:23:10 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:23:16 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:23:16 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:25:37 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:25:37 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:25:55 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:25:55 [INFO] st.session_state.llm_ready=True
+2024-06-24 11:25:55 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:25:55 [INFO] st.session_state.llm_ready=True
+2024-06-24 11:26:08 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:26:08 [INFO] st.session_state.llm_ready=True
+2024-06-24 11:26:08 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:26:08 [INFO] st.session_state.llm_ready=True
+2024-06-24 11:26:31 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:26:31 [INFO] st.session_state.llm_ready=True
+2024-06-24 11:26:48 [INFO] Question: what is the data about?
+2024-06-24 11:26:48 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 11:26:48 [INFO] Prompt ID: 8e7599ef-dd1e-4798-9ff8-c5d933b423e5
+2024-06-24 11:26:49 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INDEL4,DELHI AIR CARGO,2023-08-22,2603345733,ELENTEC INDIA PRIVATE ...,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE ...,CHINA,85076000,7559594498,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LI...,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,1933982294,KARI NIRBHAU NIRVAIR L...,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F S...,CHINA,85076000,4176089421,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRON...,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+INNSA1,NHAVA SHEVA SEA,2023-08-16,8529715556,PROLAB INFOTECH...,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS...,CHINA,85076000,8104975973,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ...,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INMAA4,CHENNAI AIR CARGO,2023-08-12,7775391451,HP INDIA SALES PRIVATE...,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION...,CHINA,85076000,0301111170,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION...,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INDEL4,DELHI AIR CARGO,2023-08-05,1158874219,JAINA INDIA PRIVATE LI...,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRI...,CHINA,85076000,1056426921,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTR...,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 11:28:57 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:28:57 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:30:24 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:30:24 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:30:25 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:30:25 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:30:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:30:34 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:30:35 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:30:35 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:30:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:30:46 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:31:31 [INFO] Question: what is the data about?
+2024-06-24 11:31:31 [INFO] Running PandasAI with openai LLM...
+2024-06-24 11:31:31 [INFO] Prompt ID: 1fe8c7cb-b153-49b0-babf-df02dc045a6d
+2024-06-24 11:31:32 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INMAA4,CHENNAI AIR CARGO,2023-08-12,2993632589,HP INDIA SALES PRIVATE...,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION...,CHINA,85076000,L11119-855BU ASSY-BATT...,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,0943579810,KARI NIRBHAU NIRVAIR L...,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F S...,CHINA,85076000,MOBILE BATTERY (BIS LI...,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRONIC TECHNOLOGY,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+INNSA1,NHAVA SHEVA SEA,2023-08-16,1467471748,PROLAB INFOTECH...,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS...,CHINA,85076000,COMPATIBLE LAPTOP BATT...,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ELECTRONIC TE,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INDEL4,DELHI AIR CARGO,2023-08-05,3009805023,JAINA INDIA PRIVATE LI...,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRI...,CHINA,85076000,TWS NUCLEUS 7 (T01)- C...,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTRONIC TECHNOLOGY CO LIMITED,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+INDEL4,DELHI AIR CARGO,2023-08-22,4056648918,ELENTEC INDIA PRIVATE ...,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE ...,CHINA,85076000,LITHIUM-ION BATTERY CE...,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LIMITED,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 11:31:38 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-06-24 11:33:11 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:33:12 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:33:12 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:33:13 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:33:13 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:35:06 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:35:06 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:35:06 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:35:07 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:35:12 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:35:12 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:35:52 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:35:52 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:37:21 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:37:22 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:37:22 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:37:23 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:37:23 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:37:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:37:34 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:38:54 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:38:54 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:39:17 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:39:17 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:39:22 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:39:22 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:39:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:39:34 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:39:52 [INFO] Question: what is the data about?
+2024-06-24 11:39:52 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 11:39:52 [INFO] Prompt ID: c3a57dff-91bb-43dd-bb0b-522736a9117c
+2024-06-24 11:39:52 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INNSA1,NHAVA SHEVA SEA,2023-08-16,7747445333,PROLAB INFOTECH,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS,CHINA,85076000,COMPATIBLE LAPTOP BATT...,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ...,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INMAA4,CHENNAI AIR CARGO,2023-08-12,6517257530,HP INDIA SALES PRIVATE LIMITED,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION PRIVATE LIMITED,CHINA,85076000,L11119-855BU ASSY-BATT...,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION...,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INDEL4,DELHI AIR CARGO,2023-08-22,5032466643,ELENTEC INDIA PRIVATE LIMITED,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE LIMITED,CHINA,85076000,LITHIUM-ION BATTERY CE...,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LI...,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+INDEL4,DELHI AIR CARGO,2023-08-05,7702511335,JAINA INDIA PRIVATE LIMITED,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRIVATE LIMITED,CHINA,85076000,TWS NUCLEUS 7 (T01)- C...,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTR...,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,4918692483,KARI NIRBHAU NIRVAIR LIMITED,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F SERVICES,CHINA,85076000,MOBILE BATTERY (BIS LI...,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRON...,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 11:40:00 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:40:00 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:40:06 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:40:06 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:40:14 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:40:14 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:40:26 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:40:26 [INFO] st.session_state.llm_ready=True
+2024-06-24 11:40:30 [INFO] Question: what is the data about?
+2024-06-24 11:40:30 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 11:40:30 [INFO] Prompt ID: 9c053072-842e-46dd-951d-14286fd513ee
+2024-06-24 11:40:30 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 11:49:26 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:49:27 [INFO] st.session_state.llm_ready=False
+2024-06-24 11:49:31 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 11:49:31 [INFO] st.session_state.llm_ready=False
+2024-06-24 12:02:14 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 12:02:14 [INFO] st.session_state.llm_ready=False
+2024-06-24 12:02:23 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 12:02:23 [INFO] st.session_state.llm_ready=True
+2024-06-24 12:02:28 [INFO] Question: what is the data about?
+2024-06-24 12:02:28 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 12:02:28 [INFO] Prompt ID: ba3a50c7-b91a-44c2-9e01-60cbee1ba50a
+2024-06-24 12:02:28 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 12:56:05 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 12:56:05 [INFO] st.session_state.llm_ready=True
+2024-06-24 12:56:14 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 12:56:14 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:00:01 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:00:01 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:14:54 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:14:54 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:15:04 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:15:04 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:15:10 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:15:10 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:15:11 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:15:11 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:15:21 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:15:21 [INFO] st.session_state.llm_ready=True
+2024-06-24 13:15:25 [INFO] Question: what is the data about?
+2024-06-24 13:15:25 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 13:15:25 [INFO] Prompt ID: 387f79f0-38fb-4a19-a274-188fc478505e
+2024-06-24 13:15:25 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 13:15:43 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:15:43 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:15:55 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:15:55 [INFO] st.session_state.llm_ready=True
+2024-06-24 13:15:59 [INFO] Question: what is the data about?
+2024-06-24 13:15:59 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 13:15:59 [INFO] Prompt ID: 6adf5a55-607f-4534-9cea-af739b23e811
+2024-06-24 13:15:59 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 13:16:11 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:16:11 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:16:13 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:16:14 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:29:41 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:29:41 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:34:48 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:34:48 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:34:49 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:34:49 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:34:59 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:34:59 [INFO] st.session_state.llm_ready=True
+2024-06-24 13:35:03 [INFO] Question: what is the data about?
+2024-06-24 13:35:03 [INFO] Running PandasAI with openai LLM...
+2024-06-24 13:35:03 [INFO] Prompt ID: 6ec7c5fb-0b98-44df-bb9b-396c04f8a1f3
+2024-06-24 13:35:03 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 13:35:04 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-06-24 13:47:01 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:47:01 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:47:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:47:46 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:47:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:47:46 [INFO] st.session_state.llm_ready=False
+2024-06-24 13:48:04 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 13:48:04 [INFO] st.session_state.llm_ready=True
+2024-06-24 13:48:08 [INFO] Question: what is the data about?
+2024-06-24 13:48:08 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 13:48:08 [INFO] Prompt ID: 85ae0e28-dc56-4494-bf62-a0a30156a122
+2024-06-24 13:48:08 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:10:38 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:10:38 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:10:50 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:10:50 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:10:57 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:10:57 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:11:01 [INFO] Question: what is the data about?
+2024-06-24 14:11:01 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:11:01 [INFO] Prompt ID: 2bec272f-9aa3-4ed2-8fc7-62089ace247b
+2024-06-24 14:11:01 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:22:26 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:22:26 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:22:27 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:22:27 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:22:33 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:22:33 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:22:35 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:22:35 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:22:39 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:22:39 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:22:47 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:22:47 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:23:11 [INFO] Question: what is the data about?
+2024-06-24 14:23:11 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:23:11 [INFO] Prompt ID: 322c7ac3-f23a-495d-adcc-b5f56880e6b8
+2024-06-24 14:23:11 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INNSA1,NHAVA SHEVA SEA,2023-08-16,4964798257,PROLAB INFOTECH,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS,CHINA,85076000,COMPATIBLE LAPTOP BATT...,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ...,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,7789944101,KARI NIRBHAU NIRVAIR LIMITED,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F SERVICES,CHINA,85076000,MOBILE BATTERY (BIS LI...,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRON...,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+INDEL4,DELHI AIR CARGO,2023-08-22,8180881501,ELENTEC INDIA PRIVATE LIMITED,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE LIMITED,CHINA,85076000,LITHIUM-ION BATTERY CE...,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LI...,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+INMAA4,CHENNAI AIR CARGO,2023-08-12,5985900039,HP INDIA SALES PRIVATE LIMITED,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION PRIVATE LIMITED,CHINA,85076000,L11119-855BU ASSY-BATT...,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION...,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INDEL4,DELHI AIR CARGO,2023-08-05,9121573580,JAINA INDIA PRIVATE LIMITED,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRIVATE LIMITED,CHINA,85076000,TWS NUCLEUS 7 (T01)- C...,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTR...,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:23:48 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:23:48 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:24:03 [INFO] Question: which Indian port used 'INMAA4' port code
+2024-06-24 14:24:03 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:24:03 [INFO] Prompt ID: 570ba348-0d81-45f6-8eb9-3b85e9ef8524
+2024-06-24 14:24:03 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INNSA1,NHAVA SHEVA SEA,2023-08-16,4964798257,PROLAB INFOTECH,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS,CHINA,85076000,COMPATIBLE LAPTOP BATT...,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ...,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,7789944101,KARI NIRBHAU NIRVAIR LIMITED,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F SERVICES,CHINA,85076000,MOBILE BATTERY (BIS LI...,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRON...,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+INDEL4,DELHI AIR CARGO,2023-08-22,8180881501,ELENTEC INDIA PRIVATE LIMITED,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE LIMITED,CHINA,85076000,LITHIUM-ION BATTERY CE...,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LI...,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+INMAA4,CHENNAI AIR CARGO,2023-08-12,5985900039,HP INDIA SALES PRIVATE LIMITED,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION PRIVATE LIMITED,CHINA,85076000,L11119-855BU ASSY-BATT...,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION...,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INDEL4,DELHI AIR CARGO,2023-08-05,9121573580,JAINA INDIA PRIVATE LIMITED,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRIVATE LIMITED,CHINA,85076000,TWS NUCLEUS 7 (T01)- C...,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTR...,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+User 2: which Indian port used 'INMAA4' port code
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:25:37 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:25:37 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:25:51 [INFO] Question: show a pie chart depicting the importer
+2024-06-24 14:25:51 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:25:51 [INFO] Prompt ID: 7d001618-9233-4fe1-a134-e2ca60214750
+2024-06-24 14:25:51 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INNSA1,NHAVA SHEVA SEA,2023-08-16,4964798257,PROLAB INFOTECH,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS,CHINA,85076000,COMPATIBLE LAPTOP BATT...,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ...,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,7789944101,KARI NIRBHAU NIRVAIR LIMITED,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F SERVICES,CHINA,85076000,MOBILE BATTERY (BIS LI...,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRON...,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+INDEL4,DELHI AIR CARGO,2023-08-22,8180881501,ELENTEC INDIA PRIVATE LIMITED,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE LIMITED,CHINA,85076000,LITHIUM-ION BATTERY CE...,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LI...,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+INMAA4,CHENNAI AIR CARGO,2023-08-12,5985900039,HP INDIA SALES PRIVATE LIMITED,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION PRIVATE LIMITED,CHINA,85076000,L11119-855BU ASSY-BATT...,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION...,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INDEL4,DELHI AIR CARGO,2023-08-05,9121573580,JAINA INDIA PRIVATE LIMITED,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRIVATE LIMITED,CHINA,85076000,TWS NUCLEUS 7 (T01)- C...,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTR...,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+User 2: which Indian port used 'INMAA4' port code
+User 3: show a pie chart depicting the importer
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:25:57 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:25:57 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:26:13 [INFO] Question: hello
+2024-06-24 14:26:13 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:26:13 [INFO] Prompt ID: f1f9e6c2-c93a-49d8-a03f-e4b01c2cc612
+2024-06-24 14:26:13 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 35619 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+INNSA1,NHAVA SHEVA SEA,2023-08-16,4964798257,PROLAB INFOTECH,"307, SARASWATI HOUSE,2...","NEW DELHI,DELHI",,YSR LOGISTICS,CHINA,85076000,COMPATIBLE LAPTOP BATT...,150.0,NOS,317.8486667,47677.3,3.802017544,570.3026316,14770.4,,HONG KONG,USD,HONG KONG LISHENGYUAN ...,"CHNOLOGY LIMITED., RM ...",3.8,H,,150.0,NOS,317.8486667,3.802017544,2308GCGIDDB,85,8507,CN,LITHIUM-ION,110019.0
+INNSA1,NHAVA SHEVA SEA,2023-08-24,7789944101,KARI NIRBHAU NIRVAIR LIMITED,"5/59 FIRST FLOOR, MAIN...",DELHI,,SILVER WINGS C AND F SERVICES,CHINA,85076000,MOBILE BATTERY (BIS LI...,152996.0,PCS,14.17909998,2169345.58,0.169,25856.32396,812853.8,,SHEKOU,USD,FOSHAN QINXUN ELECTRON...,"CO.,LTDONE OF THE 4TH ...",0.169,H,,152996.0,PCS,14.17909998,0.169,2308GEXEBIE,85,8507,CN,LITHIUM-ION,110005.0
+INDEL4,DELHI AIR CARGO,2023-08-22,8180881501,ELENTEC INDIA PRIVATE LIMITED,"B-8/14, FIRST FLOOR,,V...","NEW DELHI,DELHI",,BSP LOGISTICS PRIVATE LIMITED,CHINA,85076000,LITHIUM-ION BATTERY CE...,46575.0,PCS,461.45,21492033.75,5.5,256162.5,5263399.1,,HONG KONG,USD,SAMSUNG SDI COMPANY LI...,"508, SUNGSUNG-DONG, CH...",5.5,H,,46575.0,PCS,461.45,5.5,2308GDGXGXF,85,8507,CN,LITHIUM-ION,110057.0
+INMAA4,CHENNAI AIR CARGO,2023-08-12,5985900039,HP INDIA SALES PRIVATE LIMITED,"NO.24, SALARPURIA AREN...","BENGALURU,KARNATAKA",,A V GLOBAL CORPORATION PRIVATE LIMITED,CHINA,85076000,L11119-855BU ASSY-BATT...,500.0,NOS,2255.07134,1127535.67,26.97453756,13487.26878,349310.6,,CHONGQING,USD,WISTRON CORPORATION...,NO.5 HSIN-ANN ROAD HSI...,16.77,H,,500.0,NOS,2255.07134,26.97453756,2308GCBHXXA,85,8507,CN,LITHIUM-ION,560030.0
+INDEL4,DELHI AIR CARGO,2023-08-05,9121573580,JAINA INDIA PRIVATE LIMITED,D 170 OKHLA INDUSTRIAL...,"DELHI,DELHI",,PROFESSIONAL IMPEX PRIVATE LIMITED,CHINA,85076000,TWS NUCLEUS 7 (T01)- C...,500.0,NOS,48.97966,24489.83,0.5858811,292.9405502,7587.0,,HONG KONG,USD,DONGGUAN TENWIN ELECTR...,"ROOM 101, NO. 11, BAIH...",0.5,H,,500.0,NOS,48.97966,0.5858811,2308GBXGACB,85,8507,CN,LITHIUM-ION,110020.0
+</dataframe>
+
+<conversation>
+User 1: what is the data about?
+User 2: which Indian port used 'INMAA4' port code
+User 3: show a pie chart depicting the importer
+User 4: hello
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:45:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:45:34 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:45:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:45:34 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:45:44 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:45:44 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:45:58 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:45:58 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:46:11 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:46:11 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:46:20 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:46:20 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:46:27 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:46:27 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:46:31 [INFO] Question: list the content of 12th column
+2024-06-24 14:46:31 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:46:31 [INFO] Prompt ID: cbbb7a21-a647-49a9-8b2a-c0fac24ab564
+2024-06-24 14:46:31 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list the content of 12th column
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:53:32 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:53:32 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:53:32 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:53:48 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:53:48 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:53:48 [INFO] Question: give an analysis graph
+2024-06-24 14:53:48 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:53:48 [INFO] Prompt ID: 5c5b8950-b54d-44f3-8be6-a4cc88feb15e
+2024-06-24 14:53:48 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 16 rows and 38 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Category,2022-01-01 00:00:00,2022-02-01 00:00:00,2022-03-01 00:00:00,2022-04-01 00:00:00,2022-05-01 00:00:00,2022-06-01 00:00:00,2022-07-01 00:00:00,2022-08-01 00:00:00,2022-09-01 00:00:00,2022-10-01 00:00:00,2022-11-01 00:00:00,2022-12-01 00:00:00,2023-01-01 00:00:00,2023-02-01 00:00:00,2023-03-01 00:00:00,2023-04-01 00:00:00,2023-05-01 00:00:00,2023-06-01 00:00:00,2023-07-01 00:00:00,2023-08-01 00:00:00,2023-09-01 00:00:00,2023-10-01 00:00:00,2023-11-01 00:00:00,2023-12-01 00:00:00,2024-01-01 00:00:00,2024-02-01 00:00:00,2024-03-01 00:00:00,2024-04-01 00:00:00,2024-05-01 00:00:00,2024-06-01 00:00:00,2024-07-01 00:00:00,2024-08-01 00:00:00,2024-09-01 00:00:00,2024-10-01 00:00:00,2024-11-01 00:00:00,2024-12-01 00:00:00
+1.0,HEAVY PASSENGER VEHICLE,126.0,133.0,77.0,165.0,165.0,145.0,207.0,222.0,204.0,241.0,117.0,146.0,138.0,102.0,85.0,87.0,268.0,204.0,142.0,247.0,193.0,203.0,228.0,491.0,543.0,126.0,133.0,77.0,165.0,,,,,,,
+,FOUR WHEELER (INVALID CARRIAGE),1.0,1.0,0.0,1.0,3.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,3.0,5.0,9.0,4.0,2.0,3.0,5.0,4.0,5.0,3.0,7.0,1.0,1.0,0.0,1.0,,,,,,,
+,HEAVY GOODS VEHICLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,9.0,183.0,46.0,3.0,2.0,13.0,12.0,38.0,2.0,15.0,16.0,21.0,0.0,0.0,0.0,0.0,,,,,,,
+2.0,LIGHT GOODS VEHICLE,26.0,22.0,46.0,53.0,43.0,71.0,40.0,50.0,52.0,48.0,84.0,103.0,90.0,137.0,144.0,221.0,168.0,195.0,205.0,262.0,258.0,340.0,277.0,254.0,393.0,26.0,22.0,46.0,53.0,,,,,,,
+3.0,LIGHT MOTOR VEHICLE,1360.0,2309.0,3659.0,1805.0,2284.0,2938.0,2957.0,2918.0,3234.0,3309.0,3557.0,2924.0,2972.0,4366.0,7157.0,5412.0,6840.0,6960.0,6921.0,6302.0,5762.0,6444.0,7117.0,6999.0,7014.0,1361.0,2310.0,3660.0,1806.0,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: give an analysis graph
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 14:54:03 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:54:03 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:54:04 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:54:04 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:54:11 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:54:11 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:54:25 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:54:25 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:54:38 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:54:38 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:55:00 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:55:00 [INFO] st.session_state.llm_ready=False
+2024-06-24 14:57:35 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:57:35 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:57:35 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:57:35 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:57:47 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 14:57:47 [INFO] st.session_state.llm_ready=True
+2024-06-24 14:57:47 [INFO] Question: list the category
+2024-06-24 14:57:47 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-24 14:57:47 [INFO] Prompt ID: 82d89ce1-889e-4054-8a6f-d36789b15ad0
+2024-06-24 14:57:47 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 16 rows and 38 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Category,2022-01-01 00:00:00,2022-02-01 00:00:00,2022-03-01 00:00:00,2022-04-01 00:00:00,2022-05-01 00:00:00,2022-06-01 00:00:00,2022-07-01 00:00:00,2022-08-01 00:00:00,2022-09-01 00:00:00,2022-10-01 00:00:00,2022-11-01 00:00:00,2022-12-01 00:00:00,2023-01-01 00:00:00,2023-02-01 00:00:00,2023-03-01 00:00:00,2023-04-01 00:00:00,2023-05-01 00:00:00,2023-06-01 00:00:00,2023-07-01 00:00:00,2023-08-01 00:00:00,2023-09-01 00:00:00,2023-10-01 00:00:00,2023-11-01 00:00:00,2023-12-01 00:00:00,2024-01-01 00:00:00,2024-02-01 00:00:00,2024-03-01 00:00:00,2024-04-01 00:00:00,2024-05-01 00:00:00,2024-06-01 00:00:00,2024-07-01 00:00:00,2024-08-01 00:00:00,2024-09-01 00:00:00,2024-10-01 00:00:00,2024-11-01 00:00:00,2024-12-01 00:00:00
+2.0,LIGHT GOODS VEHICLE,26.0,22.0,46.0,53.0,43.0,71.0,40.0,50.0,52.0,48.0,84.0,103.0,90.0,137.0,144.0,221.0,168.0,195.0,205.0,262.0,258.0,340.0,277.0,254.0,393.0,26.0,22.0,46.0,53.0,,,,,,,
+3.0,LIGHT MOTOR VEHICLE,1360.0,2309.0,3659.0,1805.0,2284.0,2938.0,2957.0,2918.0,3234.0,3309.0,3557.0,2924.0,2972.0,4366.0,7157.0,5412.0,6840.0,6960.0,6921.0,6302.0,5762.0,6444.0,7117.0,6999.0,7014.0,1361.0,2310.0,3660.0,1806.0,,,,,,,
+1.0,HEAVY PASSENGER VEHICLE,126.0,133.0,77.0,165.0,165.0,145.0,207.0,222.0,204.0,241.0,117.0,146.0,138.0,102.0,85.0,87.0,268.0,204.0,142.0,247.0,193.0,203.0,228.0,491.0,543.0,126.0,133.0,77.0,165.0,,,,,,,
+,HEAVY GOODS VEHICLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,9.0,183.0,46.0,3.0,2.0,13.0,12.0,38.0,2.0,15.0,16.0,21.0,0.0,0.0,0.0,0.0,,,,,,,
+,FOUR WHEELER (INVALID CARRIAGE),1.0,1.0,0.0,1.0,3.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,3.0,5.0,9.0,4.0,2.0,3.0,5.0,4.0,5.0,3.0,7.0,1.0,1.0,0.0,1.0,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list the category
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-24 15:11:38 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 15:11:38 [INFO] st.session_state.llm_ready=True
+2024-06-24 15:17:00 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 15:17:00 [INFO] st.session_state.llm_ready=True
+2024-06-24 15:20:31 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 15:20:31 [INFO] st.session_state.llm_ready=True
+2024-06-24 21:38:30 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-24 21:38:30 [INFO] st.session_state.llm_ready=True
+2024-06-25 01:41:44 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 01:41:44 [INFO] st.session_state.llm_ready=True
+2024-06-25 03:42:30 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 03:42:30 [INFO] st.session_state.llm_ready=True
+2024-06-25 05:43:16 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 05:43:17 [INFO] st.session_state.llm_ready=True
+2024-06-25 07:44:04 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 07:44:04 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:14:02 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:14:02 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:23:01 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:01 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:07 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:07 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:07 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:08 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:18 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:18 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:22 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:22 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:48 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:48 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:58 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:58 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:23:58 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:23:58 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:24:00 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:24:00 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:24:04 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:24:04 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:24:12 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:24:12 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:24:50 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:24:50 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:24:54 [INFO] Question: list the distinct prot code
+2024-06-25 10:24:54 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-25 10:24:54 [INFO] Prompt ID: e8307724-cc1c-4366-a17e-67437a8122c7
+2024-06-25 10:24:54 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list the distinct prot code
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-25 10:27:38 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:27:38 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:27:43 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:27:43 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:27:43 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:27:43 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:27:50 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:27:50 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:27:53 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:27:53 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:27:57 [INFO] Data shape: (4927, 37)
+2024-06-25 10:28:23 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:28:23 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:28:26 [INFO] Data shape: (4927, 37)
+2024-06-25 10:28:26 [INFO] Question: list the distinct port code
+2024-06-25 10:28:26 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-25 10:28:26 [INFO] Prompt ID: 1af6c858-6f96-431b-9457-12afece30ce5
+2024-06-25 10:28:26 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list the distinct port code
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-25 10:33:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:33:34 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:33:42 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:33:42 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:33:43 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:33:43 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:33:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:33:46 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:33:51 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:33:51 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:34:11 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:34:11 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:34:15 [INFO] Question: list distinct  port code
+2024-06-25 10:34:15 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-25 10:34:15 [INFO] Prompt ID: bb241787-b325-4802-9d98-8ced14aaf57b
+2024-06-25 10:34:15 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list distinct  port code
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-25 10:37:05 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:37:05 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:37:06 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:37:06 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:37:13 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:37:13 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:37:16 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:37:16 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:37:19 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:37:19 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:37:40 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:37:40 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:37:44 [INFO] Question: list distinct port code
+2024-06-25 10:37:44 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-25 10:37:44 [INFO] Prompt ID: 26568fe9-33e8-4eb7-8612-0552a63e5680
+2024-06-25 10:37:44 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list distinct port code
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-25 10:39:40 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:39:40 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:39:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:39:46 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:39:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:39:46 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:39:50 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:39:50 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:39:53 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:39:53 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:40:09 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:40:09 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:40:12 [INFO] Question: list distinct port code
+2024-06-25 10:40:12 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-25 10:40:12 [INFO] Prompt ID: 4454eaf1-82ae-4fa5-bd06-07b0737491fa
+2024-06-25 10:40:12 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 4927 rows and 37 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,,,,DATA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PORT CODE,INDIAN PORT,DATE,IEC,IMPORTER,ADDRESS,CITY,CHA NO,CHA NAME,COUNTRY OF_ORIGIN,HS CODE,GOODS DESCRIPTION,QUANTITY,UNIT,UNIT PRICE_INR,TOTAL VALUE_INR,UNIT PRICE_USD,TOTAL VALUE_USD,DUTY PAID_INR,APPRAISING GROUP,LOADING PORT,INVOICE CURRENCY,SUPPLIER,SUPPLIER ADDRESS,INVOICE UNITPRICE_FC,BE TYPE,INVOICE NO,STD QUANTITY,STD UNIT,STD UNIT_VALUE_INR,STD UNIT_PRICE_USD,DECLARATION NO,HS CODE_2,HS CODE_4,country iso_code_2,HS CODE_DESCRIPTION,PIN
+</dataframe>
+
+<conversation>
+User 1: list distinct port code
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-25 10:40:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:40:34 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:40:55 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:40:55 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:41:15 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:15 [INFO] st.session_state.llm_ready=True
+2024-06-25 10:41:15 [INFO] Question: list data of two wheeler
+2024-06-25 10:41:15 [INFO] Running PandasAI with langchain_ollama-llm LLM...
+2024-06-25 10:41:15 [INFO] Prompt ID: df98a1e1-0ad4-4d7b-90f8-fd4fa0ff6019
+2024-06-25 10:41:15 [INFO] Using prompt: 
+You are provided with the following pandas DataFrames:
+
+<dataframe>
+Dataframe dfs[0], with 16 rows and 38 columns.
+This is the metadata of the dataframe dfs[0]:
+Unnamed: 0,Category,2022-01-01 00:00:00,2022-02-01 00:00:00,2022-03-01 00:00:00,2022-04-01 00:00:00,2022-05-01 00:00:00,2022-06-01 00:00:00,2022-07-01 00:00:00,2022-08-01 00:00:00,2022-09-01 00:00:00,2022-10-01 00:00:00,2022-11-01 00:00:00,2022-12-01 00:00:00,2023-01-01 00:00:00,2023-02-01 00:00:00,2023-03-01 00:00:00,2023-04-01 00:00:00,2023-05-01 00:00:00,2023-06-01 00:00:00,2023-07-01 00:00:00,2023-08-01 00:00:00,2023-09-01 00:00:00,2023-10-01 00:00:00,2023-11-01 00:00:00,2023-12-01 00:00:00,2024-01-01 00:00:00,2024-02-01 00:00:00,2024-03-01 00:00:00,2024-04-01 00:00:00,2024-05-01 00:00:00,2024-06-01 00:00:00,2024-07-01 00:00:00,2024-08-01 00:00:00,2024-09-01 00:00:00,2024-10-01 00:00:00,2024-11-01 00:00:00,2024-12-01 00:00:00
+2.0,LIGHT GOODS VEHICLE,26.0,22.0,46.0,53.0,43.0,71.0,40.0,50.0,52.0,48.0,84.0,103.0,90.0,137.0,144.0,221.0,168.0,195.0,205.0,262.0,258.0,340.0,277.0,254.0,393.0,26.0,22.0,46.0,53.0,,,,,,,
+,HEAVY GOODS VEHICLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,9.0,183.0,46.0,3.0,2.0,13.0,12.0,38.0,2.0,15.0,16.0,21.0,0.0,0.0,0.0,0.0,,,,,,,
+3.0,LIGHT MOTOR VEHICLE,1360.0,2309.0,3659.0,1805.0,2284.0,2938.0,2957.0,2918.0,3234.0,3309.0,3557.0,2924.0,2972.0,4366.0,7157.0,5412.0,6840.0,6960.0,6921.0,6302.0,5762.0,6444.0,7117.0,6999.0,7014.0,1361.0,2310.0,3660.0,1806.0,,,,,,,
+,FOUR WHEELER (INVALID CARRIAGE),1.0,1.0,0.0,1.0,3.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,3.0,5.0,9.0,4.0,2.0,3.0,5.0,4.0,5.0,3.0,7.0,1.0,1.0,0.0,1.0,,,,,,,
+1.0,HEAVY PASSENGER VEHICLE,126.0,133.0,77.0,165.0,165.0,145.0,207.0,222.0,204.0,241.0,117.0,146.0,138.0,102.0,85.0,87.0,268.0,204.0,142.0,247.0,193.0,203.0,228.0,491.0,543.0,126.0,133.0,77.0,165.0,,,,,,,
+</dataframe>
+
+<conversation>
+User 1: list data of two wheeler
+</conversation>
+
+This is the initial python code to be updated:
+```python
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    
+    使用提供的 dataframes ('dfs') 分析这个数据，过程中不要调用 dataframe set_index 对数据排序.
+    1. 准备: 如果有必要对数据做预处理和清洗
+    2. 执行: 对数据进行数据分析操作 (grouping, filtering, aggregating, etc.)
+    3. 分析: 进行实际分析（如果用户要求plot chart，请在代码中添加如下两行代码设置字体, 并将结果保存为图像文件temp_chart.png，并且不显示图表）
+    plt.rcParams['font.sans-serif']=['SimHei']
+    plt.rcParams['axes.unicode_minus']=False    
+        
+    At the end, return a dictionary of:
+    - type (possible values "string", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Examples: 
+        { "type": "string", "value": "The highest salary is $9,000." }
+        or
+        { "type": "number", "value": 125 }
+        or
+        { "type": "dataframe", "value": pd.DataFrame({...}) }
+        or
+        { "type": "plot", "value": "temp_chart.png" }
+    """
+```
+
+Using the provided dataframes (`dfs`), update the python code based on the last question in the conversation.
+
+Updated code:
+
+2024-06-25 10:41:33 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:33 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:33 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:41:34 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:34 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:41:48 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:48 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:41:52 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:52 [INFO] st.session_state.llm_ready=False
+2024-06-25 10:41:57 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 10:41:57 [INFO] st.session_state.llm_ready=False
+2024-06-25 11:49:46 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-06-25 11:49:46 [INFO] st.session_state.llm_ready=True
+2024-07-19 13:56:25 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-07-19 13:57:08 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-07-19 13:58:17 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-07-19 13:58:17 [INFO] st.session_state.llm_ready=False
+2024-07-19 13:58:18 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-07-19 13:58:18 [INFO] st.session_state.llm_ready=False
+2024-07-19 13:58:42 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2024-07-19 13:58:42 [INFO] st.session_state.llm_ready=False
